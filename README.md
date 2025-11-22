@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! I am Shaik. JaniBasha and I'm a<br>Aspiring Data Engineer</h2>
+<h2 align="left">Hi 👋! I am Shaik. JaniBasha and I'm a<br>Full Stack Developer</h2>
 
 ###
 
