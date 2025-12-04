@@ -1,5 +1,5 @@
 # Hi 👋, I'm SHAIK JANI BASHA
-### A passionate Full Stack developer
+### An aspiring Full Stack developer
 <p align="left">
  <img src="https://komarev.com/ghpvc/?username=Shaikjanibasha3450&label=Profile views&color=0e75b6&style=flat" alt="Shaikjanibasha3450" />
 </p>
@@ -11,10 +11,10 @@
 </p>
 
 - 🔭 I'm currently working on **A MERN Stack project**
-- 🌱 I'm currently learning **AWS and Machine Learning**
+- 🌱 I'm currently learning **machine learning and deep learning**
 - 👫 I'm looking to collaborate on **Open Source project**
-- 📫 How to reach me **shaikjanibasha3450@gmail.com**
-- 👨‍💻 All of my projects are available at **[Portfolio](https://janibasha.lovable.app/)**
+- 📫 How to reach me **[My Gmail](mailto:shaikjanibasha3450@gmail.com)**
+- 👨‍💻 All of my projects are available at **[My portfolio](https://janibasha.lovable.app/)**
 - 📄 Know about my experiences **[My resume](https://drive.google.com/file/d/1RorJ7JgA4qGJwEVhPB63rVSs_gKJG_4Y/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
