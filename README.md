@@ -40,7 +40,7 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Stats</h3>
+<h3 align="left">Stats:</h3>
 
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shaikjanibasha3450&" alt="Shaikjanibasha3450" />
