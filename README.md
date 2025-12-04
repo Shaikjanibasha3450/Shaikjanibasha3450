@@ -41,13 +41,6 @@
 </p>
 
 <h3 align="left">Stats</h3>
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shaikjanibasha3450&show_icons=true&locale=en&layout=compact" alt="Shaikjanibasha3450" />
-</p>
-
-<p>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shaikjanibasha3450&show_icons=true&locale=en" alt="Shaikjanibasha3450" />
-</p>
 
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shaikjanibasha3450&" alt="Shaikjanibasha3450" />
