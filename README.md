@@ -1,12 +1,6 @@
 # Hi 👋, I'm SHAIK JANI BASHA
 ### An aspiring Full Stack developer
 <p align="left">
- <img src="https://komarev.com/ghpvc/?username=Shaikjanibasha3450&label=Profile views&color=0e75b6&style=flat" alt="Shaikjanibasha3450" />
-</p>
-<p align="left">
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shaikjanibasha3450" alt="Shaikjanibasha3450" /></a>
-</p>
-<p align="left">
  <a href="https://twitter.com/Thejanibasha" target="blank"><img src="https://img.shields.io/twitter/follow/Thejanibasha?logo=twitter&style=for-the-badge" alt="Thejanibasha" /></a>
 </p>
 
@@ -46,6 +40,7 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a>
 </p>
 
+<h3 align="left">Stats</h3>
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shaikjanibasha3450&show_icons=true&locale=en&layout=compact" alt="Shaikjanibasha3450" />
 </p>
