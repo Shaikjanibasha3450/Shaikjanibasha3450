@@ -5,11 +5,11 @@
 </p>
 
 - 🔭 I'm currently working on **A MERN Stack project**
-- 🌱 I'm currently learning **machine learning and deep learning**
-- 👫 I'm looking to collaborate on **Open Source project**
+- 🌱 I'm currently learning **Machine Learning and Deep Learning**
+- 👫 I'm looking to collaborate on **Open Source projects**
 - 📫 How to reach me **[My Gmail](mailto:shaikjanibasha3450@gmail.com)**
-- 👨‍💻 All of my projects are available at **[My portfolio](https://janibasha.lovable.app/)**
-- 📄 Know about my experiences **[My resume](https://drive.google.com/file/d/1RorJ7JgA4qGJwEVhPB63rVSs_gKJG_4Y/view?usp=sharing)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://janibasha.lovable.app/)**
+- 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/1RorJ7JgA4qGJwEVhPB63rVSs_gKJG_4Y/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
