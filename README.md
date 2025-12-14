@@ -1,5 +1,7 @@
 # Hi 👋, I'm SHAIK JANI BASHA
 ### An aspiring Full Stack developer
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" />
+
 <p align="left">
  <a href="https://twitter.com/Thejanibasha" target="blank"><img src="https://img.shields.io/twitter/follow/Thejanibasha?logo=twitter&style=for-the-badge" alt="Thejanibasha" /></a>
 </p>
