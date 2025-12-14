@@ -43,40 +43,19 @@
 <h3 align="left">Stats:</h3>
 
 <p>
-<table align="center">
+<table align="center" width="100%">
+  
   <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shaikjanibasha3450&show_icons=true&theme=dark&count_private=true" alt="Shaikjanibasha3450" />
+    <td width="50%" align="center" valign="top">
+      <p align="center">
+        <strong>Stats:</strong><br>
+        <img src="https://github-readme-stats.vercel.app/api?username=Shaikjanibasha3450&show_icons=true&theme=dark&count_private=true" alt="Shaikjanibasha3450" />
+      </p>
     </td>
-</tr>
-</table>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikjanibasha3450&layout=compact&theme=dark" alt="Shaikjanibasha3450" />
-<br><br>
-<table align="center" border="0" width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <strong>2048</strong><br>
-      <small>Total Contributions</small><br>
-      <small>Aug 10, 2016 - Present</small>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80" height="80" alt="Current Streak" /><br>
-      <strong style="color: #ff9500;">16</strong><br>
-      <small>Current Streak</small><br>
-      <small>Nov 23 - Dec 8</small>
-    </td>
-    <td align="center" width="33%">
-      <strong>86</strong><br>
-      <small>Longest Streak</small><br>
-      <small>Dec 19, 2020 - Mar 14</small>
+    <td width="50%" align="center" valign="top">
+      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" height="120" alt="Coding" />
     </td>
   </tr>
 </table>
 <br>
-<p align="center">
-  <small>
-    🔭 I am currently working on <strong>one Stack project</strong><br>
-    🌱 I am currently learning <strong>Machine Learning</strong><br>
-    👫 I'm looking to collaborate on <strong>Open Source projects</strong>
-  </small>
-</p>
+<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikjanibasha3450&layout=compact&theme=dark" alt="Shaikjanibasha3450" />
