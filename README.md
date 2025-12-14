@@ -52,4 +52,31 @@
 </table>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikjanibasha3450&layout=compact&theme=dark" alt="Shaikjanibasha3450" />
 <br><br>
-<img align="center" src="https://img.shields.io/badge/Contribution%20Streak-78%20Days-brightgreen?logo=github" alt="Contribution Streak" />
+<table align="center" border="0" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <strong>2048</strong><br>
+      <small>Total Contributions</small><br>
+      <small>Aug 10, 2016 - Present</small>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80" height="80" alt="Current Streak" /><br>
+      <strong style="color: #ff9500;">16</strong><br>
+      <small>Current Streak</small><br>
+      <small>Nov 23 - Dec 8</small>
+    </td>
+    <td align="center" width="33%">
+      <strong>86</strong><br>
+      <small>Longest Streak</small><br>
+      <small>Dec 19, 2020 - Mar 14</small>
+    </td>
+  </tr>
+</table>
+<br>
+<p align="center">
+  <small>
+    🔭 I am currently working on <strong>one Stack project</strong><br>
+    🌱 I am currently learning <strong>Machine Learning</strong><br>
+    👫 I'm looking to collaborate on <strong>Open Source projects</strong>
+  </small>
+</p>
