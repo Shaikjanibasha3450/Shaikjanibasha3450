@@ -43,19 +43,5 @@
 <h3 align="left">Stats:</h3>
 
 <p>
-<table align="center" width="100%">
-  
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <p align="center">
-        <strong>Stats:</strong><br>
-        <img src="https://github-readme-stats.vercel.app/api?username=Shaikjanibasha3450&show_icons=true&theme=dark&count_private=true" alt="Shaikjanibasha3450" />
-      </p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" height="120" alt="Coding" />
-    </td>
-  </tr>
-</table>
-<br>
-<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikjanibasha3450&layout=compact&theme=dark" alt="Shaikjanibasha3450" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shaikjanibasha3450&show_icons=true&theme=dark&count_private=true" alt="Shaikjanibasha3450" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikjanibasha3450&layout=compact&theme=dark" alt="Shaikjanibasha3450" />
