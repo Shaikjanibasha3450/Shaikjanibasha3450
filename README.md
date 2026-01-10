@@ -41,14 +41,8 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Stats:</h3>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shaikjanibasha3450%26show_icons=true%26theme=dark%26count_private=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikjanibasha3450%26layout=compact%26theme=dark" />
-  </a>
-</p>
+### Stats:
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shaikjanibasha3450&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikjanibasha3450&layout=compact&theme=dark" alt="Top Languages" />
