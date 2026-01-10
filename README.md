@@ -43,6 +43,6 @@
 
 ### Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shaikjanibasha3450&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shaikjanibasha3450&theme=dark)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikjanibasha3450&layout=compact&theme=dark" alt="Top Languages" />
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shaikjanibasha3450&theme=dark)
